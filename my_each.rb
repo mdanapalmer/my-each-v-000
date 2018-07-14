@@ -5,9 +5,10 @@ def my_each(nukacola)
     yield(nukacola[caps])
     caps = caps + 1 
   end
-array
+nukacola
   if nukacola.empty?
-    "This block should not run!"
+    "You can't pay for this!"
   else
+    "That's all?"
 end
 end
