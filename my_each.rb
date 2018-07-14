@@ -1,5 +1,4 @@
 def my_each(array)
-  if block_given?
     caps = 0 
     
     while caps < 4
