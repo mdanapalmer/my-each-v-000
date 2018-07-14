@@ -7,8 +7,7 @@ def my_each(array)
   end
 array
   if array.empty?
-    puts "There collection is empty."
-  else 
-    puts "Hey no block bro."
+    "This block should not run!"
+  else
 end
 end
